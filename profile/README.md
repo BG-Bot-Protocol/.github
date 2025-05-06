@@ -22,10 +22,10 @@ Follow these steps:
    | **Field**            | **Value**                     |
    |----------------------|-------------------------------|
    | Network Name         | BlockBot                      |
-   | RPC URL              | [https://subnets.avax.network/blockbot/testnet/rpc]([subnets.avax.network/blockbot/testn…](https://subnets.avax.network/blockbot/testnet/rpc))       |
+   | RPC URL              | [https://subnets.avax.network/blockbot/testnet/rpc](https://subnets.avax.network/blockbot/testnet/rpc)       |
    | Chain ID             | 79321                         |
    | Currency Symbol      | BBOT                          |
-   | Block Explorer URL   | [https://subnets-test.avax.network/blockbot]([https://t.co/83idj8vAQw](https://subnets-test.avax.network/blockbot))       |
+   | Block Explorer URL   | [https://subnets-test.avax.network/blockbot](https://subnets-test.avax.network/blockbot)       |
 
 4. Click **“Save”**.
 
